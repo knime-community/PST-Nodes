@@ -1,7 +1,7 @@
 group_id: ai.redfield
 name: pst
 author: Abderrahim Alakouche
-env_yml_path: pst_conda_env.yml
+pixi_toml_path: pixi.toml
 extension_module: src/nodes/pst_reader
 description: Personal Storage Table Extension for Knime 
 long_description: Knime nodes for reading and processing PST data.
