@@ -15,7 +15,7 @@ knime-python-versions = "5.12.*"
 filetype = "*"
 html2text = "*"
 pandas = "*"
-libpff-python = "*"
+libpff-python = ">=20260926"
 beautifulsoup4 = "*"
 
 [feature.build.dependencies]

@@ -412,12 +412,12 @@ environments:
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/linux-64/knime-python-base-5.12.2-py312_202610261203.conda
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/linux-64/knime-python-versions-5.12.2-py313_202610261203.conda
       - conda: https://conda.anaconda.org/knime/noarch/knime-extension-5.12.0-202607022129.conda
-      - pypi: https://files.pythonhosted.org/packages/0b/a3/826777491832478f5e1555a16bc9de794ef0264eac53d213340dddae5bd4/libpff-python-20231205.tar.gz
       - pypi: https://files.pythonhosted.org/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/18/79/1b8fa1bb3568781e84c9200f951c735f3f157429f44be0495da55894d620/filetype-1.2.0-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1a/39/47f9197bdd44df24d67ac8893641e16f386c984a0619ef2ee4c51fbbc019/beautifulsoup4-4.14.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1d/84/1a0f9555fd5f2b1c924ff932d99b40a0f8a6b12f6dd625e2a47f415b00ea/html2text-2025.4.15-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5e/f5/0c41cb68dcae6b7de4fac4188a3a9589e21fb31df21ea3a2e888db95e6c9/soupsieve-2.8.4-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/d3/72/e450e4480fcf145d801d0cefcf2dbc7c064ab6469d0c1f7bd29f4b2e499e/libpff_python-20260926-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
       osx-64:
       - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.4.22-hbd8a1cb_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.7.0-pyhe01879c_1.conda
@@ -535,12 +535,12 @@ environments:
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/osx-64/knime-python-base-5.12.2-py312_202610261203.conda
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/osx-64/knime-python-versions-5.12.2-py313_202610261203.conda
       - conda: https://conda.anaconda.org/knime/noarch/knime-extension-5.12.0-202607022129.conda
-      - pypi: https://files.pythonhosted.org/packages/0b/a3/826777491832478f5e1555a16bc9de794ef0264eac53d213340dddae5bd4/libpff-python-20231205.tar.gz
       - pypi: https://files.pythonhosted.org/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/18/79/1b8fa1bb3568781e84c9200f951c735f3f157429f44be0495da55894d620/filetype-1.2.0-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1a/39/47f9197bdd44df24d67ac8893641e16f386c984a0619ef2ee4c51fbbc019/beautifulsoup4-4.14.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1d/84/1a0f9555fd5f2b1c924ff932d99b40a0f8a6b12f6dd625e2a47f415b00ea/html2text-2025.4.15-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5e/f5/0c41cb68dcae6b7de4fac4188a3a9589e21fb31df21ea3a2e888db95e6c9/soupsieve-2.8.4-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/d4/59/27836bdc513e2bc4f7239530be37d4a08521d8d05bda7b35e58b49b0fcd9/libpff_python-20260926-cp313-cp313-macosx_10_13_x86_64.whl
       osx-arm64:
       - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.4.22-hbd8a1cb_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.7.0-pyhe01879c_1.conda
@@ -658,12 +658,12 @@ environments:
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/osx-arm64/knime-python-base-5.12.2-py313_202610261203.conda
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/osx-arm64/knime-python-versions-5.12.2-py313_202610261203.conda
       - conda: https://conda.anaconda.org/knime/noarch/knime-extension-5.12.0-202607022129.conda
-      - pypi: https://files.pythonhosted.org/packages/0b/a3/826777491832478f5e1555a16bc9de794ef0264eac53d213340dddae5bd4/libpff-python-20231205.tar.gz
       - pypi: https://files.pythonhosted.org/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/18/79/1b8fa1bb3568781e84c9200f951c735f3f157429f44be0495da55894d620/filetype-1.2.0-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1a/39/47f9197bdd44df24d67ac8893641e16f386c984a0619ef2ee4c51fbbc019/beautifulsoup4-4.14.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1d/84/1a0f9555fd5f2b1c924ff932d99b40a0f8a6b12f6dd625e2a47f415b00ea/html2text-2025.4.15-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5e/f5/0c41cb68dcae6b7de4fac4188a3a9589e21fb31df21ea3a2e888db95e6c9/soupsieve-2.8.4-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/b6/61/72a679de86b0cbc19f5fd2a16f4d2a06ac12588419c8d0bab22ca08b421a/libpff_python-20260926-cp313-cp313-macosx_11_0_arm64.whl
       win-64:
       - conda: https://conda.anaconda.org/conda-forge/noarch/ca-certificates-2026.4.22-h4c7d964_0.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/importlib-metadata-8.7.0-pyhe01879c_1.conda
@@ -774,12 +774,12 @@ environments:
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/win-64/knime-python-base-5.12.2-py313_202610261203.conda
       - conda: https://conda.anaconda.org/knime/label/LTS-5-12/win-64/knime-python-versions-5.12.2-py313_202610261203.conda
       - conda: https://conda.anaconda.org/knime/noarch/knime-extension-5.12.0-202607022129.conda
-      - pypi: https://files.pythonhosted.org/packages/0b/a3/826777491832478f5e1555a16bc9de794ef0264eac53d213340dddae5bd4/libpff-python-20231205.tar.gz
       - pypi: https://files.pythonhosted.org/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/18/79/1b8fa1bb3568781e84c9200f951c735f3f157429f44be0495da55894d620/filetype-1.2.0-py2.py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1a/39/47f9197bdd44df24d67ac8893641e16f386c984a0619ef2ee4c51fbbc019/beautifulsoup4-4.14.3-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/1d/84/1a0f9555fd5f2b1c924ff932d99b40a0f8a6b12f6dd625e2a47f415b00ea/html2text-2025.4.15-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/5e/f5/0c41cb68dcae6b7de4fac4188a3a9589e21fb31df21ea3a2e888db95e6c9/soupsieve-2.8.4-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/ee/65/67bc5f17ee4151c79340466d6a30f47ee70f17bcf2771a0ea4c717efc923/libpff_python-20260926-cp313-cp313-win_amd64.whl
 packages:
 - conda: https://conda.anaconda.org/conda-forge/linux-64/_openmp_mutex-4.5-20_gnu.conda
   build_number: 20
@@ -10243,11 +10243,6 @@ packages:
   license_family: GPL3
   size: 452607
   timestamp: 1782315207715
-- pypi: https://files.pythonhosted.org/packages/0b/a3/826777491832478f5e1555a16bc9de794ef0264eac53d213340dddae5bd4/libpff-python-20231205.tar.gz
-  name: libpff-python
-  version: '20231205'
-  sha256: 06c218be51321b16dc3b835185ee1cd2fa5c2a1ca856e0390c1d6e4ddf329250
-  requires_python: '>=3.7'
 - pypi: https://files.pythonhosted.org/packages/18/67/36e9267722cc04a6b9f15c7f3441c2363321a3ea07da7ae0c0707beb2a9c/typing_extensions-4.15.0-py3-none-any.whl
   name: typing-extensions
   version: 4.15.0
@@ -10280,3 +10275,23 @@ packages:
   version: 2.8.4
   sha256: e7e6b0769c8f51ed59acab6e994b00621096cfb1c640a7509295987388fbaf65
   requires_python: '>=3.9'
+- pypi: https://files.pythonhosted.org/packages/b6/61/72a679de86b0cbc19f5fd2a16f4d2a06ac12588419c8d0bab22ca08b421a/libpff_python-20260926-cp313-cp313-macosx_11_0_arm64.whl
+  name: libpff-python
+  version: '20260926'
+  sha256: 5fcf74fe4887434a5865ee30bb7e9fb533456b1332595c70ece6ec3a85542f12
+  requires_python: '>=3.10'
+- pypi: https://files.pythonhosted.org/packages/d3/72/e450e4480fcf145d801d0cefcf2dbc7c064ab6469d0c1f7bd29f4b2e499e/libpff_python-20260926-cp313-cp313-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
+  name: libpff-python
+  version: '20260926'
+  sha256: eec51db2b0fae82362d5a8c82c67acc461520a6a453df6cb456c75e673b02e78
+  requires_python: '>=3.10'
+- pypi: https://files.pythonhosted.org/packages/d4/59/27836bdc513e2bc4f7239530be37d4a08521d8d05bda7b35e58b49b0fcd9/libpff_python-20260926-cp313-cp313-macosx_10_13_x86_64.whl
+  name: libpff-python
+  version: '20260926'
+  sha256: d7e75ce453eda7eedaf44928b13cba84293956b7c16f968462e89dbec642a958
+  requires_python: '>=3.10'
+- pypi: https://files.pythonhosted.org/packages/ee/65/67bc5f17ee4151c79340466d6a30f47ee70f17bcf2771a0ea4c717efc923/libpff_python-20260926-cp313-cp313-win_amd64.whl
+  name: libpff-python
+  version: '20260926'
+  sha256: 64639f83f81bd5b026bad8b97f8ecd159de4f064610ca9aafb1471a9325d76c0
+  requires_python: '>=3.10'
